@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 95vh;
     background-color: #fae1dd;
   }
   
@@ -74,7 +74,7 @@
     text-align: center;
     line-height:25px;
     top:19px;
-    left:85px;
+    left:55px;
     color: #003049;
   }
   
